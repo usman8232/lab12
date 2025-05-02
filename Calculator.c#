@@ -17,3 +17,10 @@ b=4;
 c=a*b;
 Console.WriteLine($"Multiplication: {c}");
 Console.ReadLine();
+
+Division
+a=6;
+b=2;
+c=a/b;
+Console.WriteLine($"Division: {c}");
+Console.ReadLine();
