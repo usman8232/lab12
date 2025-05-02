@@ -3,3 +3,10 @@ b=4;
 c=a+b;
 Console.WriteLine($"Sum: {c});
 Console.ReadLine();
+
+Subtraction
+a=6;
+b=4;
+c=a-b;
+Console.WriteLine($"Difference: {c}");
+Console.ReadLine();
