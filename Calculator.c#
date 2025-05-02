@@ -1,0 +1,26 @@
+a=6;
+b=4;
+c=a+b;
+Console.WriteLine($"Sum: {c});
+Console.ReadLine();
+
+Subtraction
+a=6;
+b=4;
+c=a-b;
+Console.WriteLine($"Difference: {c}");
+Console.ReadLine();
+
+Multiplication
+a=6;
+b=4;
+c=a*b;
+Console.WriteLine($"Multiplication: {c}");
+Console.ReadLine();
+
+Division
+a=6;
+b=2;
+c=a/b;
+Console.WriteLine($"Division: {c}");
+Console.ReadLine();
